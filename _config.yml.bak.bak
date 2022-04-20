@@ -35,13 +35,6 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 plugins:
   - jekyll-feed
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-W43C5XTTJ8"
-    anonymize_ip: false # default
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
